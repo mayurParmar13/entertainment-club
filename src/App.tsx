@@ -8,6 +8,7 @@ import Trending from './components/Trending/Trending';
 import Movies from './components/Movies/Movies';
 import Series from './components/Series/Series';
 import Search from './components/Search/Search';
+import Footer from './components/footer/footer';
 
 function App() {
   return (
@@ -25,6 +26,7 @@ function App() {
           </Routes>
         </Container>
       </div>
+      <Footer/>
     </BrowserRouter>
   );
 }

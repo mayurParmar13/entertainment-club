@@ -2,7 +2,7 @@
     width: 100%;
     text-align: center;
     cursor:pointer;
-    box-shadow: 0px 1px 5px black;   
+    box-shadow: 0px -5px 10px black;   
     position: fixed;
     justify-content: center;
     text-transform: uppercase;
